@@ -1,0 +1,12 @@
+.env
+.venv/
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+data/raw/
+data/sim/
+data/_hidden_truth.csv
+report/report.html
+report/_print.pdf
+DECISIONS.md
+HANDOFF*.md

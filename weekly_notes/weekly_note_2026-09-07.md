@@ -1,0 +1,5 @@
+# Weekly CRO note - week of 2026-09-07 (SIMULATED store)
+
+> Draft source: sentence template. Number check: PASS (16/16 numbers traced to the data). To be read and signed off by the analyst before sharing.
+
+Week of 7 Sep 2026: 84,558 sessions (+1.6% week on week, +55.0% vs the same week last year). Conversion per session was 0.94% (-0.09 pp week on week, -8.7% week on week); per user it was 1.19%. Revenue per visit was €3.49 gross and €3.37 net of the returns seen so far (most returns of this week are not visible yet: the trial window is still open); average order value €374, add-to-cart rate 3.15%. Mobile conversion per session was 0.77% (-0.03 pp week on week) while desktop conversion per session was 1.20% (-0.17 pp week on week). Monitoring opened no incident this week. Several funnel alerts this week are explained by a traffic-mix change (more paid-social sessions); conversion inside each channel is stable, so no incident was opened. Analytics revenue was 97.2% of the shop's revenue, within the usual range (no duplicate purchases).

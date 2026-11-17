@@ -1,0 +1,5 @@
+test_id,primary_kpi,baseline,mde_relative,alpha,power,visitors_per_arm_needed,eligible_visitors_per_day,planned_days,days_run,visitors_observed
+A,add-to-cart rate,0.09,0.07,0.05,0.8,33406,3100,28,28,86580
+B,conversion rate,0.02,0.12,0.05,0.8,56548,4600,28,28,129187
+C,conversion rate,0.016,0.16,0.05,0.8,40672,1800,49,49,87487
+D,conversion rate,0.016,0.08,0.05,0.8,156774,6000,56,56,336107

@@ -1,0 +1,10 @@
+event_id,event,expected_handling,handled_correctly,how,days_to_detect,cause_found_in_release_log
+1,Mobile payment broken (Safari iOS),raise,True,"incident on mobile / Safari iOS, payment step",2.0,True
+2,Slower mattress product page,raise,True,"incident on mobile / Mattress, add-to-cart rate (desktop not flagged)",5.0,True
+3,Delivery fees revealed at checkout (bulky items),funnel finding,True,funnel by category: shipping-step abandonment x2.0,,True
+4,False signal: traffic mix,do not raise,True,"9 alerts, all triaged as traffic mix; no incident opened",,True
+5,Duplicate purchase events,raise,True,"reconciliation: analytics revenue above the shop's, duplicate purchase events",1.0,True
+6,Sample ratio mismatch,invalidate test,True,"SRM check: variant share 48.2%, p = 5.5e-40",,True
+7,The winner that loses,iterate,True,conversion +8.1% (p = 0.004) but net RPV +2.9% [-3.4%; +9.6%],,True
+8,Normal seasonality (Black Month),do not raise,True,0 incidents opened during Black Month 2026 (baseline = last year's promo),,True
+99,Other incidents opened (false positives),none,True,0 other open incidents over 18 months,,

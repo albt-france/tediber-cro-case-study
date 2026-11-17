@@ -1,0 +1,3 @@
+test_id,test_name,eligible_visitors_per_year,net_rpv_control_eur,impact_low_eur,impact_central_eur,impact_high_eur,note
+A,Sticky add-to-cart button on mobile product pages,1131500,10.289796649335646,-910747.9341909094,406927.0658754937,1921375.7441345914,SIMULATED store; range = 95% bootstrap interval; assumes the effect holds after launch
+C,Delivery fee shown on bulky-item product pages,657000,9.252191974464205,476653.14396402345,1302737.4765544944,2294090.492564523,SIMULATED store; range = 95% bootstrap interval; assumes the effect holds after launch

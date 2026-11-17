@@ -1,0 +1,250 @@
+{
+ "week_start": "2026-05-18",
+ "data": "SIMULATED",
+ "facts": [
+  {
+   "metric": "sessions",
+   "segment": "All",
+   "value": 57902.0,
+   "unit": "count",
+   "period": "current",
+   "basis": null,
+   "label": "sessions"
+  },
+  {
+   "metric": "sessions",
+   "segment": "All",
+   "value": -1.088163,
+   "unit": "pct",
+   "period": "wow",
+   "basis": null,
+   "label": "sessions, week on week"
+  },
+  {
+   "metric": "conversion",
+   "segment": "All",
+   "value": 1.153673,
+   "unit": "pct",
+   "period": "current",
+   "basis": "per_session",
+   "label": "conversion per session"
+  },
+  {
+   "metric": "conversion",
+   "segment": "All",
+   "value": 1.506167,
+   "unit": "pct",
+   "period": "current",
+   "basis": "per_user",
+   "label": "conversion per user"
+  },
+  {
+   "metric": "conversion",
+   "segment": "All",
+   "value": 1.17016,
+   "unit": "pct",
+   "period": "previous",
+   "basis": "per_session",
+   "label": "conversion last week"
+  },
+  {
+   "metric": "conversion",
+   "segment": "All",
+   "value": -0.016487,
+   "unit": "pp",
+   "period": "wow",
+   "basis": "per_session",
+   "label": "conversion, week on week (points)"
+  },
+  {
+   "metric": "conversion",
+   "segment": "All",
+   "value": -1.40892,
+   "unit": "pct",
+   "period": "wow",
+   "basis": "per_session",
+   "label": "conversion, week on week (relative)"
+  },
+  {
+   "metric": "aov",
+   "segment": "All",
+   "value": 389.68049,
+   "unit": "eur",
+   "period": "current",
+   "basis": null,
+   "label": "average order value"
+  },
+  {
+   "metric": "aov",
+   "segment": "All",
+   "value": -2.034473,
+   "unit": "pct",
+   "period": "wow",
+   "basis": null,
+   "label": "average order value, week on week"
+  },
+  {
+   "metric": "rpv",
+   "segment": "All",
+   "value": 4.49564,
+   "unit": "eur",
+   "period": "current",
+   "basis": "gross",
+   "label": "revenue per visit (gross)"
+  },
+  {
+   "metric": "rpv",
+   "segment": "All",
+   "value": 4.171994,
+   "unit": "eur",
+   "period": "current",
+   "basis": "net",
+   "label": "revenue per visit (net of returns)"
+  },
+  {
+   "metric": "rpv",
+   "segment": "All",
+   "value": -3.414729,
+   "unit": "pct",
+   "period": "wow",
+   "basis": "gross",
+   "label": "revenue per visit, week on week"
+  },
+  {
+   "metric": "atc",
+   "segment": "All",
+   "value": 3.775344,
+   "unit": "pct",
+   "period": "current",
+   "basis": null,
+   "label": "add-to-cart rate"
+  },
+  {
+   "metric": "checkout_abandonment",
+   "segment": "All",
+   "value": 49.660889,
+   "unit": "pct",
+   "period": "current",
+   "basis": null,
+   "label": "checkout abandonment"
+  },
+  {
+   "metric": "checkout_abandonment",
+   "segment": "All",
+   "value": 0.289123,
+   "unit": "pp",
+   "period": "wow",
+   "basis": null,
+   "label": "checkout abandonment, week on week"
+  },
+  {
+   "metric": "revenue",
+   "segment": "All",
+   "value": 260306.57,
+   "unit": "eur",
+   "period": "current",
+   "basis": "gross",
+   "label": "revenue (gross)"
+  },
+  {
+   "metric": "revenue",
+   "segment": "All",
+   "value": 241566.8,
+   "unit": "eur",
+   "period": "current",
+   "basis": "net",
+   "label": "revenue net of returns"
+  },
+  {
+   "metric": "conversion",
+   "segment": "mobile",
+   "value": 0.895892,
+   "unit": "pct",
+   "period": "current",
+   "basis": "per_session",
+   "label": "mobile conversion"
+  },
+  {
+   "metric": "conversion",
+   "segment": "mobile",
+   "value": -0.041492,
+   "unit": "pp",
+   "period": "wow",
+   "basis": "per_session",
+   "label": "mobile conversion, week on week (points)"
+  },
+  {
+   "metric": "conversion",
+   "segment": "desktop",
+   "value": 1.628119,
+   "unit": "pct",
+   "period": "current",
+   "basis": "per_session",
+   "label": "desktop conversion"
+  },
+  {
+   "metric": "conversion",
+   "segment": "desktop",
+   "value": 0.065463,
+   "unit": "pp",
+   "period": "wow",
+   "basis": "per_session",
+   "label": "desktop conversion, week on week (points)"
+  },
+  {
+   "metric": "atc",
+   "segment": "mobile / Mattress",
+   "value": 3.836672,
+   "unit": "pct",
+   "period": "current",
+   "basis": null,
+   "label": "add-to-cart rate on mobile / Mattress"
+  },
+  {
+   "metric": "atc",
+   "segment": "mobile / Mattress",
+   "value": 4.967334,
+   "unit": "pct",
+   "period": "expected",
+   "basis": null,
+   "label": "expected add-to-cart rate"
+  },
+  {
+   "metric": "atc",
+   "segment": "mobile / Mattress",
+   "value": -22.761957,
+   "unit": "pct",
+   "period": "vs_expected",
+   "basis": null,
+   "label": "add-to-cart rate vs expected"
+  },
+  {
+   "metric": "incidents",
+   "segment": "All",
+   "value": 1.0,
+   "unit": "count",
+   "period": "current",
+   "basis": null,
+   "label": "incidents opened"
+  },
+  {
+   "metric": "revenue",
+   "segment": "analytics vs shop",
+   "value": 95.682137,
+   "unit": "pct",
+   "period": "current",
+   "basis": "gross",
+   "label": "analytics revenue as % of shop revenue"
+  }
+ ],
+ "incidents": [
+  {
+   "slice": "mobile / Mattress",
+   "kpi": "add-to-cart rate",
+   "first_day": "2026-05-17",
+   "candidate_releases": "2026-05-11 Site-wide: Cookie banner wording updated | 2026-05-12 Product page - mattress: New full-width image carousel with high-resolution images"
+  }
+ ],
+ "mix_alerts": 0,
+ "reconciliation_alert": false
+}

@@ -1,0 +1,5 @@
+# Weekly CRO note - week of 2026-05-18 (SIMULATED store)
+
+> Draft source: sentence template. Number check: PASS (19/19 numbers traced to the data). To be read and signed off by the analyst before sharing.
+
+Week of 18 May 2026: 57,902 sessions (-1.1% week on week). Conversion per session was 1.15% (-0.02 pp week on week, -1.4% week on week); per user it was 1.51%. Revenue per visit was €4.50 gross and €4.17 net of the returns seen so far; average order value €390, add-to-cart rate 3.78%. Mobile conversion per session was 0.90% (-0.04 pp week on week) while desktop conversion per session was 1.63% (+0.07 pp week on week). Monitoring opened 1 incident: add-to-cart rate on mobile / Mattress ran at 3.8% against an expected 5.0% (-22.8% vs expected). The release log points to 2026-05-12 Product page - mattress: New full-width image carousel with high-resolution images; next step: measure the mobile loading time of these pages and resize or lazy-load the new images, then confirm the add-to-cart rate recovers. Analytics revenue was 95.7% of the shop's revenue, within the usual range (no duplicate purchases).

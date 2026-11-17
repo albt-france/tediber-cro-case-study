@@ -1,0 +1,21 @@
+dataset,indicator,geo,year,pct_individuals,label,retrieved_on
+isoc_ec_ib20,I_BUY3,FR,2021,65.6,"Bought online, last 3 months",2026-11-17
+isoc_ec_ib20,I_BUY3,FR,2022,63.48,"Bought online, last 3 months",2026-11-17
+isoc_ec_ib20,I_BUY3,FR,2023,65.78,"Bought online, last 3 months",2026-11-17
+isoc_ec_ib20,I_BUY3,FR,2024,69.31,"Bought online, last 3 months",2026-11-17
+isoc_ec_ib20,I_BUY3,FR,2025,70.31,"Bought online, last 3 months",2026-11-17
+isoc_ec_ib20,I_BUY3,EU27_2020,2020,53.76,"Bought online, last 3 months",2026-11-17
+isoc_ec_ib20,I_BUY3,EU27_2020,2021,56.94,"Bought online, last 3 months",2026-11-17
+isoc_ec_ib20,I_BUY3,EU27_2020,2022,56.02,"Bought online, last 3 months",2026-11-17
+isoc_ec_ib20,I_BUY3,EU27_2020,2023,58.06,"Bought online, last 3 months",2026-11-17
+isoc_ec_ib20,I_BUY3,EU27_2020,2024,60.2,"Bought online, last 3 months",2026-11-17
+isoc_ec_ib20,I_BUY3,EU27_2020,2025,62.35,"Bought online, last 3 months",2026-11-17
+isoc_ec_ibgs,I_BFURN1,FR,2021,22.29,"Bought furniture / home goods online, last 3 months",2026-11-17
+isoc_ec_ibgs,I_BFURN1,FR,2022,18.2,"Bought furniture / home goods online, last 3 months",2026-11-17
+isoc_ec_ibgs,I_BFURN1,FR,2023,18.03,"Bought furniture / home goods online, last 3 months",2026-11-17
+isoc_ec_ibgs,I_BFURN1,FR,2024,22.07,"Bought furniture / home goods online, last 3 months",2026-11-17
+isoc_ec_ibgs,I_BFURN1,EU27_2020,2020,15.2,"Bought furniture / home goods online, last 3 months",2026-11-17
+isoc_ec_ibgs,I_BFURN1,EU27_2020,2021,16.64,"Bought furniture / home goods online, last 3 months",2026-11-17
+isoc_ec_ibgs,I_BFURN1,EU27_2020,2022,14.7,"Bought furniture / home goods online, last 3 months",2026-11-17
+isoc_ec_ibgs,I_BFURN1,EU27_2020,2023,15.2,"Bought furniture / home goods online, last 3 months",2026-11-17
+isoc_ec_ibgs,I_BFURN1,EU27_2020,2024,18.01,"Bought furniture / home goods online, last 3 months",2026-11-17

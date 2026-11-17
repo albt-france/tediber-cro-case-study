@@ -1,0 +1,12 @@
+check_name,value,unit
+purchase events,5692.0,events
+purchase events with a missing or (not set) transaction id,906.0,events
+distinct transaction ids,4451.0,ids
+transaction ids sent more than once,326.0,ids
+extra purchase events from duplicated ids,335.0,events
+sessions without a session_start event,4990.0,sessions
+share of sessions without session_start,0.013867005,share
+"share of sessions with channel not available ((data deleted), <Other>)",0.20731589,share
+purchase sessions without begin_checkout in the same session,3.0,sessions
+view_item_list events (list views barely tracked),71.0,events
+view_cart events (not tracked in this export),0.0,events

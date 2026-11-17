@@ -1,0 +1,283 @@
+{
+ "week_start": "2026-03-16",
+ "data": "SIMULATED",
+ "facts": [
+  {
+   "metric": "sessions",
+   "segment": "All",
+   "value": 62483.0,
+   "unit": "count",
+   "period": "current",
+   "basis": null,
+   "label": "sessions"
+  },
+  {
+   "metric": "sessions",
+   "segment": "All",
+   "value": -0.298388,
+   "unit": "pct",
+   "period": "wow",
+   "basis": null,
+   "label": "sessions, week on week"
+  },
+  {
+   "metric": "conversion",
+   "segment": "All",
+   "value": 1.072292,
+   "unit": "pct",
+   "period": "current",
+   "basis": "per_session",
+   "label": "conversion per session"
+  },
+  {
+   "metric": "conversion",
+   "segment": "All",
+   "value": 1.399244,
+   "unit": "pct",
+   "period": "current",
+   "basis": "per_user",
+   "label": "conversion per user"
+  },
+  {
+   "metric": "conversion",
+   "segment": "All",
+   "value": 1.083453,
+   "unit": "pct",
+   "period": "previous",
+   "basis": "per_session",
+   "label": "conversion last week"
+  },
+  {
+   "metric": "conversion",
+   "segment": "All",
+   "value": -0.011161,
+   "unit": "pp",
+   "period": "wow",
+   "basis": "per_session",
+   "label": "conversion, week on week (points)"
+  },
+  {
+   "metric": "conversion",
+   "segment": "All",
+   "value": -1.030164,
+   "unit": "pct",
+   "period": "wow",
+   "basis": "per_session",
+   "label": "conversion, week on week (relative)"
+  },
+  {
+   "metric": "aov",
+   "segment": "All",
+   "value": 430.76219,
+   "unit": "eur",
+   "period": "current",
+   "basis": null,
+   "label": "average order value"
+  },
+  {
+   "metric": "aov",
+   "segment": "All",
+   "value": 6.565207,
+   "unit": "pct",
+   "period": "wow",
+   "basis": null,
+   "label": "average order value, week on week"
+  },
+  {
+   "metric": "rpv",
+   "segment": "All",
+   "value": 4.619027,
+   "unit": "eur",
+   "period": "current",
+   "basis": "gross",
+   "label": "revenue per visit (gross)"
+  },
+  {
+   "metric": "rpv",
+   "segment": "All",
+   "value": 4.384676,
+   "unit": "eur",
+   "period": "current",
+   "basis": "net",
+   "label": "revenue per visit (net of returns)"
+  },
+  {
+   "metric": "rpv",
+   "segment": "All",
+   "value": 5.46741,
+   "unit": "pct",
+   "period": "wow",
+   "basis": "gross",
+   "label": "revenue per visit, week on week"
+  },
+  {
+   "metric": "atc",
+   "segment": "All",
+   "value": 3.796233,
+   "unit": "pct",
+   "period": "current",
+   "basis": null,
+   "label": "add-to-cart rate"
+  },
+  {
+   "metric": "checkout_abandonment",
+   "segment": "All",
+   "value": 52.040086,
+   "unit": "pct",
+   "period": "current",
+   "basis": null,
+   "label": "checkout abandonment"
+  },
+  {
+   "metric": "checkout_abandonment",
+   "segment": "All",
+   "value": -0.642841,
+   "unit": "pp",
+   "period": "wow",
+   "basis": null,
+   "label": "checkout abandonment, week on week"
+  },
+  {
+   "metric": "revenue",
+   "segment": "All",
+   "value": 288610.67,
+   "unit": "eur",
+   "period": "current",
+   "basis": "gross",
+   "label": "revenue (gross)"
+  },
+  {
+   "metric": "revenue",
+   "segment": "All",
+   "value": 273967.71,
+   "unit": "eur",
+   "period": "current",
+   "basis": "net",
+   "label": "revenue net of returns"
+  },
+  {
+   "metric": "conversion",
+   "segment": "mobile",
+   "value": 0.860072,
+   "unit": "pct",
+   "period": "current",
+   "basis": "per_session",
+   "label": "mobile conversion"
+  },
+  {
+   "metric": "conversion",
+   "segment": "mobile",
+   "value": 0.013719,
+   "unit": "pp",
+   "period": "wow",
+   "basis": "per_session",
+   "label": "mobile conversion, week on week (points)"
+  },
+  {
+   "metric": "conversion",
+   "segment": "desktop",
+   "value": 1.493522,
+   "unit": "pct",
+   "period": "current",
+   "basis": "per_session",
+   "label": "desktop conversion"
+  },
+  {
+   "metric": "conversion",
+   "segment": "desktop",
+   "value": 0.003991,
+   "unit": "pp",
+   "period": "wow",
+   "basis": "per_session",
+   "label": "desktop conversion, week on week (points)"
+  },
+  {
+   "metric": "payment_step",
+   "segment": "mobile / Safari iOS",
+   "value": 63.837638,
+   "unit": "pct",
+   "period": "current",
+   "basis": null,
+   "label": "payment step on mobile / Safari iOS"
+  },
+  {
+   "metric": "payment_step",
+   "segment": "mobile / Safari iOS",
+   "value": 82.565789,
+   "unit": "pct",
+   "period": "expected",
+   "basis": null,
+   "label": "expected payment step"
+  },
+  {
+   "metric": "payment_step",
+   "segment": "mobile / Safari iOS",
+   "value": -22.682701,
+   "unit": "pct",
+   "period": "vs_expected",
+   "basis": null,
+   "label": "payment step vs expected"
+  },
+  {
+   "metric": "conversion",
+   "segment": "mobile / Safari iOS",
+   "value": 0.625641,
+   "unit": "pct",
+   "period": "current",
+   "basis": "per_session",
+   "label": "conversion rate on mobile / Safari iOS"
+  },
+  {
+   "metric": "conversion",
+   "segment": "mobile / Safari iOS",
+   "value": 0.977284,
+   "unit": "pct",
+   "period": "expected",
+   "basis": "per_session",
+   "label": "expected conversion rate"
+  },
+  {
+   "metric": "conversion",
+   "segment": "mobile / Safari iOS",
+   "value": -35.981671,
+   "unit": "pct",
+   "period": "vs_expected",
+   "basis": "per_session",
+   "label": "conversion rate vs expected"
+  },
+  {
+   "metric": "incidents",
+   "segment": "All",
+   "value": 2.0,
+   "unit": "count",
+   "period": "current",
+   "basis": null,
+   "label": "incidents opened"
+  },
+  {
+   "metric": "revenue",
+   "segment": "analytics vs shop",
+   "value": 98.068855,
+   "unit": "pct",
+   "period": "current",
+   "basis": "gross",
+   "label": "analytics revenue as % of shop revenue"
+  }
+ ],
+ "incidents": [
+  {
+   "slice": "mobile / Safari iOS",
+   "kpi": "payment step",
+   "first_day": "2026-03-12",
+   "candidate_releases": "2026-03-09 Homepage: New hero image and headline | 2026-03-10 Checkout - payment: Split-payment widget upgraded to a new version (new iframe) | 2026-03-12 Blog: New article template"
+  },
+  {
+   "slice": "mobile / Safari iOS",
+   "kpi": "conversion rate",
+   "first_day": "2026-03-15",
+   "candidate_releases": "2026-03-09 Homepage: New hero image and headline | 2026-03-10 Checkout - payment: Split-payment widget upgraded to a new version (new iframe) | 2026-03-12 Blog: New article template"
+  }
+ ],
+ "mix_alerts": 0,
+ "reconciliation_alert": false
+}
